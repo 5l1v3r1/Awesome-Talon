@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">Talon</h1>
 <h3 align="center">The Blade's Shadow</h3>
+
 ### Guides
+
   - [Yamikaze's Challenger Talon Guide](https://www.mobafire.com/league-of-legends/build/yamikazes-challenger-talon-guide-512203)
   
 ### Social Community
