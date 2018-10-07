@@ -5,14 +5,13 @@
 <h3 align="center">The Blade's Shadow</h3>
 
 ### Guides
-
   - [Yamikaze's Challenger Talon Guide](https://www.mobafire.com/league-of-legends/build/yamikazes-challenger-talon-guide-512203)
   
 ### Social Community
-
   - [Reddit - Talon Mains](https://www.reddit.com/r/Talonmains/)
   - [Discord - Talon Mains](https://discordapp.com/invite/talonmains)
   - [Mobafire - Talon](https://www.mobafire.com/league-of-legends/champion/talon-82)
+  - [Talon Wikia](http://leagueoflegends.wikia.com/wiki/Talon)
 
 
 ### Talon Streamers
@@ -28,11 +27,11 @@
   
 
 ### Youtube Channels
-
 - [Yamikaze](https://www.youtube.com/channel/UCYdAkhrbi3KIezU5pKWS-Zg)
 - [Aatrixx](https://www.youtube.com/user/ImShadowzzz)
 - [Fwii](https://www.youtube.com/user/oreoman29)
 - [Toih](https://www.youtube.com/channel/UCfZkigkuJilP01FcDAHM9Ag)
+
 ### Talon Montage
 - [Talon Montage 2# Toih
 ](https://www.youtube.com/watch?v=W1R18ebD-UI)
@@ -46,7 +45,6 @@
 - [Best TALON Combos](https://www.youtube.com/watch?v=Us-W3HSbIYI)
 
 ### Old Talon
-
 - [Talon Forever](https://www.youtube.com/watch?v=C74HcbhCDgo)
 - [Insane Talon Montage - Old Talon](https://www.youtube.com/watch?v=_OqKfOD27Sc)
 - [Talon Pentakill Compilation
