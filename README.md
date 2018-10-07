@@ -56,3 +56,6 @@
 - [Talon - League of Legends Shimeji-ee](https://www.deviantart.com/ranukki/art/Talon-League-of-Legends-Shimeji-ee-739435790)
 
 
+### Skins
+- [Talon Skins Review](http://www.strategyzero.com/blog/2012/league-of-legends-talon-skins-review/)
+- [Talon skins - Wiki](http://leagueoflegends.wikia.com/wiki/Talon/Skins)
