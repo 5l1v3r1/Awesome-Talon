@@ -55,6 +55,7 @@
 ### Art
 - [Deviantart](https://www.deviantart.com/suburbanno/favourites/)
 - [Talon - League of Legends Shimeji-ee](https://www.deviantart.com/ranukki/art/Talon-League-of-Legends-Shimeji-ee-739435790)
+- [Ask Talon](http://asktalon.tumblr.com/)
 
 
 ### Skins
