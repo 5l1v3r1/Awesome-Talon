@@ -49,7 +49,8 @@
 
 - [Talon Forever](https://www.youtube.com/watch?v=C74HcbhCDgo)
 - [Insane Talon Montage - Old Talon](https://www.youtube.com/watch?v=_OqKfOD27Sc)
-- [https://www.youtube.com/watch?v=DkGdBKc4OFU](https://www.youtube.com/watch?v=DkGdBKc4OFU)
+- [Talon Pentakill Compilation
+](https://www.youtube.com/watch?v=DkGdBKc4OFU)
 
 ### Art
 - [Deviantart](https://www.deviantart.com/suburbanno/favourites/)
