@@ -1,9 +1,13 @@
 <p align="center">
-<img src="https://a.imagem.app/eJmnY.png" width="140" alt="Talon">
+<img src="https://a.imagem.app/eJmnY.png" width="140" alt="Noxus">
 </p>
 <h1 align="center">Talon</h1>
 <h3 align="center">🗡️ The Blade's Shadow</h3>
-
+<style>
+  .markdown-body>*:first-child {
+    display: none !important;
+}
+  </style>
 ### Guides
   - [Yamikaze's Challenger Talon Guide](https://www.mobafire.com/league-of-legends/build/yamikazes-challenger-talon-guide-512203) (EN)
   - [Cawa - TALON TUTORIAL POGGERS](https://youtu.be/8QnpiZ4XyeM) (PT-BR)
@@ -13,8 +17,8 @@
   - [Discord - Talon Mains](https://discordapp.com/invite/talonmains) (EN)
   - [Mobafire - Talon](https://www.mobafire.com/league-of-legends/champion/talon-82) (EN)
   - [Talon Wikia](http://leagueoflegends.wikia.com/wiki/Talon) (EN) (BR)
+  - [TopMastery](https://championmasterylookup.derpthemeus.com/champion?champion=91) (EN)
   - [FanPage](https://www.facebook.com/MainTalonXD/) (PT-BR)
-
 
 ### Talon Streamers
   - [Toih](https://www.twitch.tv/toih) (BR)
@@ -26,13 +30,18 @@
   - [Aatrix](https://www.twitch.tv/aatrixz) (EN)
   - [Talon 1v9](https://www.twitch.tv/talon1v9) (EN)
   - [TalonFlower](https://www.twitch.tv/talonflower) (Taiwan)
-  
+  - [KitKatxz](https://www.twitch.tv/kitkatxz) (EN)
+  - [Eoba](https://www.twitch.tv/eoba) (EN)
+  - [Scrumma](https://www.twitch.tv/scrummna) (EN)
+  - [Staxl](https://www.twitch.tv/staxl) (EN)
 
 ### Youtube Channels
 - [Yamikaze](https://www.youtube.com/channel/UCYdAkhrbi3KIezU5pKWS-Zg) (EN)
 - [Aatrixx](https://www.youtube.com/user/ImShadowzzz) (EN)
 - [Fwii](https://www.youtube.com/user/oreoman29) (EN)
 - [Toih](https://www.youtube.com/channel/UCfZkigkuJilP01FcDAHM9Ag) (BR)
+- [Eoba](https://www.youtube.com/channel/UCLCkXtv4vvbsN9UfxOnzBiQ?sub_confirmation=1) (EN)
+- [Staxl](https://www.youtube.com/channel/UCOKFoO64qccHJx_KRmDzMPw) (EN)
 
 ### Talon Montage
 - [Talon Montage 2# Toih](https://www.youtube.com/watch?v=W1R18ebD-UI)
@@ -43,6 +52,7 @@
 ### Combos
 - [Nine combos EVERY Talon should know - Talon Combo Guide](https://www.youtube.com/watch?v=7zAKXeVIAGI)
 - [Best TALON Combos](https://www.youtube.com/watch?v=Us-W3HSbIYI)
+- [Every Talon Combo and Mechanic You Need to Hit Challenger](https://www.youtube.com/watch?v=1GIYLmDkQ4o)
 
 ### Old Talon
 - [Talon Forever](https://www.youtube.com/watch?v=C74HcbhCDgo)
@@ -58,3 +68,4 @@
 ### Skins
 - [Talon Skins Review](http://www.strategyzero.com/blog/2012/league-of-legends-talon-skins-review/) (EN)
 - [Talon skins - Wiki](http://leagueoflegends.wikia.com/wiki/Talon/Skins) (EN) (BR)
+- [Blood Moon Talon - Custom Chroma By Staxl ](https://www.youtube.com/watch?v=87BaV2tez5w) (EN)
