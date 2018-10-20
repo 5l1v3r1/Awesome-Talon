@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://a.imagem.app/eJmnY.png" width="140" alt="Noxus">
+<img src="https://a.imagem.app/eJmnY.png" width="140" alt="Talon">
 </p>
 <h1 align="center">Talon</h1>
 <h3 align="center">🗡️ The Blade's Shadow</h3>
