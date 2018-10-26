@@ -69,3 +69,4 @@
 - [Talon Skins Review](http://www.strategyzero.com/blog/2012/league-of-legends-talon-skins-review/) (EN)
 - [Talon skins - Wiki](http://leagueoflegends.wikia.com/wiki/Talon/Skins) (EN) (BR)
 - [Blood Moon Talon - Custom Chroma By Staxl ](https://www.youtube.com/watch?v=87BaV2tez5w) (EN)
+- [Talon skins 3D Model](https://teemo.gg/model-viewer?skinid=91001)
