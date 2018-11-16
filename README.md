@@ -24,6 +24,7 @@
   - [Toih](https://www.twitch.tv/toih) (BR)
  -  [Cawabanga](https://www.twitch.tv/cawabanga) (BR)
  -  [Higuilty](https://www.twitch.tv/higuilty) (BR)
+ -  [Yaoia](https://www.twitch.tv/yaoia) (BR)
   - [Fwii](https://www.twitch.tv/fwiizone) (EN)
   - [Yamikaze](https://www.twitch.tv/yamikazexz) (EN)
   - [Ailincia](https://www.twitch.tv/ailincia) (EN)
